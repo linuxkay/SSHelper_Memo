@@ -18,7 +18,7 @@ Memo for SSHelper app.
 
 ## Usage
 
-copy pub key file from computer.
+Copy ssh pub key file from computer to Android.
 
 `ssh-copy-id -i ~/.ssh/id_rsa.pub  -p 2222 IP_Address`
 
