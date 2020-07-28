@@ -10,7 +10,7 @@ Memo for SSHelper android app.
 
 Things to write in bash_alias
 
-How to send ssh public key to Android.
+Showing how to send ssh public key to Android.
 
 ## Demo in Animation
 
