@@ -2,11 +2,11 @@
 
 ## Category
 
-Memo for android app.
+Memo: android app.
 
 ## Description
 
-Memo for SSHelper app.
+Memo for SSHelper android app.
 
 Things to write in bash_alias
 
