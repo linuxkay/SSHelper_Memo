@@ -22,7 +22,7 @@ Showing how to send ssh public key to Android.
 
 ## Usage
 
-Copy ssh pub key file from computer to Android.
+Copying ssh publick key file from computer to Android.
 
 `ssh-copy-id -i ~/.ssh/id_rsa.pub  -p 2222 IP_Address`
 
