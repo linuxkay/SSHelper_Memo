@@ -26,7 +26,7 @@ Copying ssh publick key file from computer to Android.
 
 `ssh-copy-id -i ~/.ssh/id_rsa.pub  -p 2222 IP_Address`
 
-bash_alias for rsync android.
+Add follwoing line in bash_alias or .zshrc for rsync android.
 
 `alias rsync_with_android='rsync -avzzhP --inplace --info=progress2 -e 'ssh -p 2222' Android_hostname_or_IP_Address:SDCard/DCIM/ /Destination_Directory/'`
 
