@@ -18,6 +18,10 @@ Showing how to send ssh public key to Android.
 
 ## Requirements
 
+SSHelper app
+
+may require android 5 or above
+
 ## Install
 
 ## Usage
