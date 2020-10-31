@@ -36,6 +36,12 @@ Add follwoing line in bash_alias or .zshrc for rsync android.
 
 `alias rsync_with_android='rsync -avzzhP --inplace --info=progress2 -e 'ssh -p 2222' Android_hostname_or_IP_Address:SDCard/DCIM/ /Destination_Directory/'`
 
+For scp
+
+PC to Android
+
+`scp SourceDirectory AndroidHostName:/data/data/com.arachnoid.sshelper/files/home/SDCard/Music/`
+
 ## Contribution
 
 ## Updates
