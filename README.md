@@ -42,6 +42,12 @@ PC to Android
 
 `scp SourceDirectory AndroidHostName:/data/data/com.arachnoid.sshelper/files/home/SDCard/Music/`
 
+Android to PC
+
+PC to iPhone
+
+iPhone to PC
+
 ## Contribution
 
 ## Updates
