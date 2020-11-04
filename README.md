@@ -46,6 +46,16 @@ Android to PC
 
 PC to iPhone
 
+Use an app called FTP Manager Pro
+
+https://apps.apple.com/jp/app/ftpmanager-ftp-sftp-client/id525959186?ign-mpt=uo%3D4
+
+Or
+
+FE File Explorer
+
+https://apps.apple.com/jp/app/fe-file-explorer-file-manager/id510282524
+
 iPhone to PC
 
 ## Contribution
