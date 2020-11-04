@@ -38,7 +38,7 @@ Add follwoing line in bash_alias or .zshrc for rsync android.
 
 <hr>
 
-For scp file transfer
+## For scp file transfer
 
 PC to Android
 
