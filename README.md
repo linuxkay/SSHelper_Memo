@@ -2,7 +2,7 @@
 
 ## Category
 
-Memo: android app.
+Memo: android app: file transfer.
 
 ## Description
 
