@@ -8,7 +8,7 @@ Memo: android app: file transfer.
 
 Memo for SSHelper android app.
 
-Things to write in bash_alias
+Things to write in bash_alias for convenience.
 
 Showing how to send ssh public key to Android.
 
